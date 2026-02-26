@@ -111,3 +111,4 @@ docker logs n8n-compose-traefik-1 --tail 200
 Open:
 
 `https://chatcv.duckdns.org`
+
