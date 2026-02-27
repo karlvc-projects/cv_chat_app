@@ -72,7 +72,7 @@ function App() {
         </a>
         <div className="profile-content">
           <h1>Vishul Chauhan</h1>
-          <p className="profile-subtitle">Python Developer | Data Engineer</p>
+          <p className="profile-subtitle">Python Developer | Data Engineer | GenAI Application Engineer</p>
           <div className="contact-grid">
             <p className="contact-label">Email</p>
             <p className="contact-value">
