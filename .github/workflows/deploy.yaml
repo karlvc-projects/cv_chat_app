@@ -18,7 +18,7 @@ jobs:
       with:
         hosts: 35.208.136.72
         username: root
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
           cd /home/vishul_chauhan333/cv_chat_app
           git pull origin main
