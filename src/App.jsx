@@ -48,7 +48,7 @@ function App() {
       ]);
       setMessage('');
     } catch (err) {
-      setError('Something went wrong. Please try again.');
+      setError("Token life is currently on vacation. Please try again in a bit.");
     } finally {
       setLoading(false);
     }
