@@ -102,7 +102,7 @@ function App() {
         </div>
       </header>
 
-      <h2>CV Chat</h2>
+      <h2>AI CV ChatBOT</h2>
 
       <textarea
         value={message}
